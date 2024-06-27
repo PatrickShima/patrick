@@ -1,3 +1,3 @@
 
-let fruits = ['banana', 'apple', 'pineapple'];
+let fruits = ['banana', 'apple', 'cake'];
 
